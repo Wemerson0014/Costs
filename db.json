@@ -262,6 +262,17 @@
       },
       "cost": 0,
       "services": []
+    },
+    {
+      "id": "6d47",
+      "name": "Teste010",
+      "budget": "487120",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": []
     }
   ],
   "categories": [
