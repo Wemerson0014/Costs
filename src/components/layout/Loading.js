@@ -1,13 +1,14 @@
-import loading from '../../img/loading.svg'
+import styles from './Loading.module.css';
 
-import styles from './Loading.module.css'
+import loading from '../../img/loading.svg';
 
-function Loading() {
+function Loading(){
+
     return(
         <div className={styles.loader_container}>
-            <img className={styles.loader} src={loading} alt="Loading" />
+            <img src={loading} alt="loading" className={styles.loader} />
         </div>
     )
 }
 
-export default Loading
+export default Loading;
