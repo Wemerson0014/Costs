@@ -13,11 +13,11 @@
     },
     {
       "id": "194d",
-      "name": "teste078",
-      "budget": "1547",
+      "name": "Projeto",
+      "budget": "1500",
       "category": {
-        "id": "1",
-        "name": "Infra"
+        "id": "3",
+        "name": "Design"
       },
       "cost": 0,
       "services": []
@@ -26,7 +26,7 @@
       "id": "ddcd",
       "cost": 0,
       "services": [],
-      "name": "testsw",
+      "name": "projeto 45",
       "budget": "14500",
       "category": {
         "id": "1",
@@ -37,7 +37,7 @@
       "id": "f752",
       "cost": 0,
       "services": [],
-      "name": "testsw",
+      "name": "projeto01",
       "budget": "14500",
       "category": {
         "id": "1",
