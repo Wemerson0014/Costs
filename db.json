@@ -8,8 +8,21 @@
         "id": "1",
         "name": "Infra"
       },
-      "cost": 0,
-      "services": []
+      "cost": null,
+      "services": [
+        {
+          "name": "Caju",
+          "nacostme": "7800",
+          "description": "Implementação de código para nova regra de negócio",
+          "id": "17a1ae90-2cf0-45cb-8c2a-a70fd1b877ba"
+        },
+        {
+          "name": "Caju",
+          "nacostme": "7800",
+          "description": "Implementação de código para nova regra de negócio",
+          "id": "17a1ae90-2cf0-45cb-8c2a-a70fd1b877ba"
+        }
+      ]
     },
     {
       "id": "194d",
@@ -27,17 +40,6 @@
       "cost": 0,
       "services": [],
       "name": "projeto 45",
-      "budget": "14500",
-      "category": {
-        "id": "1",
-        "name": "Infra"
-      }
-    },
-    {
-      "id": "f752",
-      "cost": 0,
-      "services": [],
-      "name": "projeto01",
       "budget": "14500",
       "category": {
         "id": "1",
