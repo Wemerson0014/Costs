@@ -21,6 +21,30 @@
           "nacostme": "7800",
           "description": "Implementação de código para nova regra de negócio",
           "id": "17a1ae90-2cf0-45cb-8c2a-a70fd1b877ba"
+        },
+        {
+          "name": "Caju",
+          "cost": "250",
+          "description": "Teste",
+          "id": "c293921c-cab0-4197-9efd-28b611862e5f"
+        },
+        {
+          "name": "Comprar pc",
+          "cost": "1800",
+          "description": "Novo pc",
+          "id": "ede3274e-4ed3-42b8-9fdb-018589a85e61"
+        },
+        {
+          "name": "teste",
+          "cost": "100",
+          "description": "tetes",
+          "id": "624cdb18-39bc-4f1a-87b6-b7127737edad"
+        },
+        {
+          "name": "teste",
+          "cost": "100",
+          "description": "teste",
+          "id": "0bc10875-1196-4ff0-bd3a-a56291589950"
         }
       ]
     },
@@ -32,8 +56,21 @@
         "id": "3",
         "name": "Design"
       },
-      "cost": 0,
-      "services": []
+      "cost": 435,
+      "services": [
+        {
+          "name": "Caju",
+          "cost": "420",
+          "description": "Implementação de código para nova regra de negócio",
+          "id": "c8dd271a-5427-4a43-bfed-602e082a2620"
+        },
+        {
+          "name": "teste01",
+          "cost": "15",
+          "description": "tete01",
+          "id": "46fc6dad-bf1e-447c-98bc-f295c7b3f801"
+        }
+      ]
     },
     {
       "id": "ddcd",
@@ -45,6 +82,60 @@
         "id": "1",
         "name": "Infra"
       }
+    },
+    {
+      "id": "093f",
+      "name": "test",
+      "budget": "4580",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 1850,
+      "services": [
+        {
+          "name": "test",
+          "cost": "1800",
+          "description": "teste de service",
+          "id": "fb20b8fc-cf23-4602-a469-2ee0160a1b6b"
+        },
+        {
+          "name": "test",
+          "cost": "50",
+          "description": "Teste",
+          "id": "062230d7-2a42-4351-a237-824c239c5c93"
+        }
+      ]
+    },
+    {
+      "id": "1eda",
+      "name": "Novo testes",
+      "budget": "7410",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 161,
+      "services": [
+        {
+          "name": "Layout",
+          "cost": "100",
+          "description": "Contratar desginer",
+          "id": "a80d6425-d45e-4bed-b035-12aeb56b3308"
+        },
+        {
+          "name": "test",
+          "cost": "45",
+          "description": "Teste",
+          "id": "a82d34f6-2b94-41ea-bbba-051f515a2655"
+        },
+        {
+          "name": "teste",
+          "cost": "16",
+          "description": "teste",
+          "id": "b4704b8a-b4f6-4fb6-a381-8e0779a34954"
+        }
+      ]
     }
   ],
   "categories": [
